@@ -19,6 +19,6 @@
          state: present
          name:
            - python3-apt
-           - python9-pycurl
+           - python3-pycurl
 
 
