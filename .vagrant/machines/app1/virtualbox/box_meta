@@ -1,1 +1,1 @@
-{"name":"debian/buster64","version":"10.20211018.1","provider":"virtualbox","directory":"boxes/debian-VAGRANTSLASH-buster64/10.20211018.1/virtualbox"}
+{"name":"ubuntu/focal64","version":"20211026.0.0","provider":"virtualbox","directory":"boxes/ubuntu-VAGRANTSLASH-focal64/20211026.0.0/virtualbox"}
